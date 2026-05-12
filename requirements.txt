@@ -1,0 +1,5 @@
+certifi
+requests
+selenium
+setuptools
+undetected-chromedriver
